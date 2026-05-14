@@ -1,0 +1,10 @@
+{
+  "name": "jass-portfolio",
+  "version": "1.0.0",
+  "description": "Modern portfolio website",
+  "author": "Jass",
+  "license": "Inspiration-Only",
+  "scripts": {
+    "start": "live-server"
+  }
+}
